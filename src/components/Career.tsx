@@ -5,8 +5,8 @@ const Career = () => {
     <div className="career-section section-container">
       <div className="career-container">
         <h2>
-          My career <span>&</span>
-          <br /> experience
+          My Education <span>&</span>
+          <br /> Experience
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -15,58 +15,58 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>B.Tech Student</h4>
+                <h5>NIT Jalandhar</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2025-29</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Pursuing B.Tech in Mathematics and Computing at NIT Jalandhar.
+              Specializing in Flutter development, AI/ML, Data Structures & Algorithms,
+              and DevOps. Active in coding competitions and building real-world projects.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>Flutter Developer</h4>
+                <h5>Self-Taught & Projects</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>Ongoing</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Built multiple Flutter applications focusing on cross-platform mobile
+              development. Created apps for to-do lists, social confessions, music
+              streaming UIs, and e-commerce platforms. Strong expertise in Dart,
+              Firebase integration, and state management patterns.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Competitive Programmer</h4>
+                <h5>Active Problem Solver</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>Ongoing</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Passionate about Data Structures and Algorithms. Regularly participating
+              in coding challenges and building a strong foundation in DSA. Exploring
+              machine learning and AI concepts to develop well-rounded technical skills.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>DevOps & Cloud</h4>
+                <h5>Learning & Growing</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>Ongoing</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Building skills in cloud platforms, containerization, CI/CD pipelines,
+              and DevOps practices. Understanding infrastructure, deployment strategies,
+              and system scalability to become a complete full-stack developer.
             </p>
           </div>
         </div>

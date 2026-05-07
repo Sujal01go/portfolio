@@ -2,7 +2,7 @@ import {
   FaGithub,
   FaInstagram,
   FaLinkedinIn,
-  FaYoutube,
+  FaTwitter
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -61,7 +61,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/akashrmalhotra"
+            href="https://github.com/sujal01go"
             target="_blank"
             rel="noreferrer"
           >
@@ -70,7 +70,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/akashrmalhotra/"
+            href="https://www.linkedin.com/in/sujal-gupta-4198b9368/"
             target="_blank"
             rel="noreferrer"
           >
@@ -79,16 +79,16 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.youtube.com/@Leftbraincoder"
+            href="https://x.com/Sujal01go"
             target="_blank"
             rel="noreferrer"
           >
-            <FaYoutube />
+            <FaTwitter />
           </a>
         </span>
         <span>
           <a
-            href="https://www.instagram.com/leftbraincoder/"
+            href="https://www.instagram.com/sujal_gupta_0501"
             target="_blank"
             rel="noreferrer"
           >
@@ -98,7 +98,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Akash_Malhotra.pdf"
+        href="/Sujal_Gupta.pdf"
         target="_blank"
         rel="noreferrer"
       >
